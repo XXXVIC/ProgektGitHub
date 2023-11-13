@@ -1,0 +1,84 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(0, 255, 47);
+}
+
+header{
+    background-color: black;
+    border: 1px solid white;
+    margin: 25px;
+}
+
+header a{
+    text-decoration: none;
+    margin: 40px;
+    color: white;
+    border: 5px dashed red;
+}
+
+.saske{
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+.saswe{
+    background-color: red;
+    border: 1px solid red;
+    padding: 10px;
+}
+
+.saswe img{
+    border: 5px solid blue;
+    margin: 10px;
+}
+
+.divp{
+    background-color: black;
+    border: 1px solid black;
+    color: white;
+    margin: 30px;
+    border-radius: 10px;
+}
+
+.sasma img{
+    border: 5px solid red;
+    margin: 10px;
+}
+
+.sasma{
+    background-color: blue;
+    border: 1px solid blue;
+    padding: 10px;
+}
+
+.sasus{
+    background-color: white;
+    border: 1px solid white;
+    padding: 10px;
+}
+
+.sasus img{
+    border: 5px solid red;
+    margin: 10px;
+}
+
+.sasua{
+    background-color: yellow;
+    border: 1px solid yellow;
+    padding: 10px;
+}
+
+.sasua img{
+    border: 5px solid blue;
+    margin: 5px;
+}
+
+.DaDnotrealDad{
+    text-decoration: none;
+    color: black;
+    border: 5px dashed black;
+}
